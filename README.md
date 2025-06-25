@@ -1,2 +1,2 @@
-### Python Projects
-# A repository with a sample Python Projects.
+# Python Projects
+### A repository with a sample Python Projects.
